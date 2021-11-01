@@ -1,0 +1,14 @@
+psychic:left bf:right
+:0:talk:0.05:normal: You know what?
+:0:talk:0.05:normal: Time to use some sonic music.
+:0:unamused:0.05:normal: It has to work, Sonic is\nmy best friend, he never gave me up.
+:1:talk:0.05:normal: And let you down?
+:0:angry:0.05:normal: ....
+:0:angry:0.05:normal: Did you just rick roll me?
+:1:talk:0.05:normal:beep skabap.
+:0:angry:0.05:angry: Say that again and i will rip your nuts off.
+:1:talk:0.05:normal:beep?
+:0:angry:0.05:normal: Yea yea, I'm starting.
+:0:unamused:0.05:normal: By the way, this is a long song,\njust warning ya.
+:1:talk:0.05:normal:beep bop baap!
+:0:talk:0.05:normal: Ok,ok here we go.

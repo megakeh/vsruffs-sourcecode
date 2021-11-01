@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Lazers", "dad", [146, 113, 253]],
+		["Emeralds", "dad", [146, 113, 253]],
+		["RUFF-IT", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Colonel Ruffs",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

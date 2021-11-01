@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		0
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				3
+			],
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"loop_name": "psychictalkloop",
+			"idle_name": "psychictalkk"
+		},
+		{
+			"loop_name": "psychicpissedloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "psychicpissed",
+			"anim": "unasumed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "psychicangryloop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "psychicangry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Psy_Dialogue"
+}

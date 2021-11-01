@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"deputy",
+			"robo",
+			[
+				0,
+				0,
+				80
+			]
+		],
+		[
+			"digger",
+			"robo",
+			[
+				0,
+				0,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"robo",
+		"bf",
+		"gf"
+	],
+	"storyName": "deputy irons",
+	"weekName": "old-bud",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": false
+}

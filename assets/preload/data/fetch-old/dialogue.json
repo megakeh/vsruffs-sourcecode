@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "unasamed",
+			"text": "Congrats, you passed this song for babies. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "unasamed",
+			"text": "Lets go to the second one made by cocom-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skaboop bopeebo bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Its easier than bopeebo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Want a real challenge? You have it."
+		}
+	]
+}

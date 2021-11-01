@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "you again?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "What do you want from my fuckin life?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skaboop beep skap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "unasamed",
+			"text": "Ah shit, here we go again."
+		}
+	]
+}

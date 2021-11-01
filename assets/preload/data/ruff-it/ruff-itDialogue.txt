@@ -1,0 +1,10 @@
+psychic:left bf:right
+:0:angry:0.05:angry: ENOUGH.
+:0:angry:0.05:angry: GET OUT OF HERE.
+:1:talk:0.05:normal:beep ba-
+:0:angry:0.05:angry: NOW.
+:1:talk:0.05:normal:beep bap skabopta.
+:0:angry:0.05:talk: You asked for it.
+:0:unamused:0.05:normal: Time to get cereal.
+:1:talk:0.05:normal: Im sure you meant to\nsay serious
+:0:angry:0.1:normal: ....

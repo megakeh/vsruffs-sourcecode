@@ -1,0 +1,9 @@
+psychic:left bf:right
+:0:talk:0.05:normal: Huh?
+:1:talk:0.05:normal:boop bap
+:0:angry:0.05:angry: Are you the one who's\nbothering Squeak while he's working?
+:1:talk:0.05:normal:beep.
+:0:unamused:0.05:normal: Lets have a rap battle.
+:0:talk:0.05:normal: If you lose, we'll kick\nyo butt out of the spaceship.
+:1:talk:0.05:normal:bop!
+:0:angry:0.05:normal: Alright, show me what you got, kiddo.

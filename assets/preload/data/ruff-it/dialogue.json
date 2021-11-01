@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Ok thats it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Get out."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep ba-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NOW."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop bap beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "SAY THAT AGAIN AND I WILL RIP YOUR FUCKING NUTS OFF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skab bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "unasamed",
+			"text": "Yea yea, im starting."
+		}
+	]
+}

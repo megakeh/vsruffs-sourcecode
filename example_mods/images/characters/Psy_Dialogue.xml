@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Psy_Dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="psychicangry0000" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0001" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0002" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0003" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0004" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0005" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0006" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangry0007" x="0" y="0" width="359" height="508"/>
+	<SubTexture name="psychicangryloop0000" x="359" y="0" width="358" height="508" frameX="0" frameY="0" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicangryloop0001" x="359" y="0" width="358" height="508" frameX="0" frameY="0" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicangryloop0002" x="717" y="0" width="358" height="472" frameX="-2" frameY="-36" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicangryloop0003" x="717" y="0" width="358" height="472" frameX="-2" frameY="-36" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicangryloop0004" x="359" y="0" width="358" height="508" frameX="0" frameY="0" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicangryloop0005" x="359" y="0" width="358" height="508" frameX="0" frameY="0" frameWidth="360" frameHeight="508"/>
+	<SubTexture name="psychicpissed0000" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0001" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0002" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0003" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0004" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0005" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0006" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissed0007" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissedloop0000" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissedloop0001" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissedloop0002" x="1434" y="0" width="358" height="468" frameX="-4" frameY="-34" frameWidth="362" frameHeight="508"/>
+	<SubTexture name="psychicpissedloop0003" x="1434" y="0" width="358" height="468" frameX="-4" frameY="-34" frameWidth="362" frameHeight="508"/>
+	<SubTexture name="psychicpissedloop0004" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychicpissedloop0005" x="1075" y="0" width="359" height="508"/>
+	<SubTexture name="psychictalkk0000" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0001" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0002" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0003" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0004" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0005" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0006" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkk0007" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0000" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0001" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0002" x="380" y="508" width="380" height="498" frameX="-4" frameY="-48" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0003" x="380" y="508" width="380" height="498" frameX="-4" frameY="-48" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0004" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+	<SubTexture name="psychictalkloop0005" x="0" y="508" width="380" height="546" frameX="0" frameY="0" frameWidth="384" frameHeight="546"/>
+</TextureAtlas>

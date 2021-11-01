@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Not bad at all, punk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "You got what you came from, now get the fuck out of here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skep bapbop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Oh, you want another one?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bep bap skob bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I SUCK?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Well listen here you piece of shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Imma rip your fucking nuts off right after your girlfriend finishes gargling mine."
+		},
+		{
+			"speed": 0.215,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "boop??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yea, Im not doing that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "psychic",
+			"boxState": "normal",
+			"expression": "unasumed",
+			"text": "..."
+		}
+	]
+}
